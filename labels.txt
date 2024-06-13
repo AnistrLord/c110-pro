@@ -1,0 +1,3 @@
+0 paper
+1 stone
+2 scissor 
